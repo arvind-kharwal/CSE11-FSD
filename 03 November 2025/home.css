@@ -1,0 +1,14 @@
+:root{
+    --color1:#f55742;
+    --color2:#63f542;
+    --bg:#42e3f5;
+}
+body{
+    background-color: var(--bg);
+}
+.yes{
+    background-color: var(--color1);
+}
+.no{
+    background-color: var(--color2);
+}
